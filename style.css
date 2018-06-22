@@ -1,0 +1,41 @@
+.opinion-card {
+    position: relative;
+}
+
+.thumbnail {
+    max-width: 60px;
+    /* position: relative; */
+    /* left: 50%; */
+    /* top: 50%; */
+    display: inline;
+}
+
+.minor-opinions {
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+.card-author {
+    color: gray;
+    text-transform: uppercase;
+}
+
+.card {
+    border: solid 1px red;
+}
+
+.reader {
+    padding: 10px;
+}
+.reader p {
+    text-transform: uppercase;
+}
+
+.reader h4 {
+   font-weight: bold;
+}
+
+.opinion-header {
+    text-align: center;
+    font-size: 22px;
+}

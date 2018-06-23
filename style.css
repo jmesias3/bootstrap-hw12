@@ -1,3 +1,6 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
 .opinion-card {
     position: relative;
 }
@@ -25,7 +28,7 @@
 }
 
 .reader {
-    padding: 10px;
+    padding: 15px;
 }
 .reader p {
     text-transform: uppercase;
@@ -38,4 +41,30 @@
 .opinion-header {
     text-align: center;
     font-size: 22px;
+}
+
+.recent-img {
+    display: inline-block;
+}
+
+.recent-text {
+    max-width: 1000%;
+}
+
+.break {
+    width: 100%;
+    height: 4px;
+    background-color: rgb(201, 201, 201);
+    margin: 20px;
+}
+
+.sub-article {
+    margin: 0px 0px 20px 0px;
+}
+.sub-article-title {
+    font-style: italic;
+    font-size: 34px;
+    font-weight: bold;
+
+
 }

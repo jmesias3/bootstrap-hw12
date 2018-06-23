@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-    border: solid 1px red;
+    border: none;
 }
 
 .reader {
@@ -67,4 +67,24 @@ body {
     font-weight: bold;
 
 
+}
+
+.img-description {
+    font-family: sans-serif;
+    color: gray;
+}
+
+.card-title {
+    font-size: 32px;
+    text-align: center
+}
+
+.main-summary {
+    text-align: center;
+}
+
+.main-card-author {
+    color: gray;
+    text-transform: uppercase;
+    text-align: center;
 }
